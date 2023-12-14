@@ -1,5 +1,6 @@
 'use strict';
 
+
 //HTML Elements
 const mapDiv = document.getElementById('map');
 
